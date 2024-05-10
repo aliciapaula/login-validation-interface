@@ -11,10 +11,15 @@ Este repositório contém um projeto que demonstra a construção de uma interfa
 **Tecnologias Utilizadas**
 
 **HTML:** Estrutura e conteúdo das páginas.
+
 **CSS:** Estilização e layout das páginas.
+
 **JavaScript:** Lógica do lado do cliente, validações e interações com o servidor.
+
 **MySQL:** Banco de dados para armazenar informações de usuários.
+
 **Node.js:** Ambiente de execução para o servidor.
+
 **Express:** Framework para criar o servidor e APIs.
 
 **Como Executar o Projeto**
