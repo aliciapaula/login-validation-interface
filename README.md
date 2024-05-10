@@ -23,7 +23,7 @@ Este repositório contém um projeto que demonstra a construção de uma interfa
 - Configure o banco de dados MySQL.
 - Inicie o servidor.
 - Acesse a aplicação: Abra o navegador e digite http://localhost:3000 (ou a porta que você configurou) na barra de endereços.
-- 
+
 **Estrutura do projeto**
 
 **node_modules/:** Contém os arquivos de configuração do nodejs.
